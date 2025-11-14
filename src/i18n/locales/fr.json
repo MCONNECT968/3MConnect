@@ -1,0 +1,62 @@
+{
+  "common": {
+    "dashboard": "Tableau de bord",
+    "properties": "Propriétés",
+    "clients": "Clients",
+    "needsForms": "Formulaires de besoins",
+    "calendar": "Calendrier",
+    "rentalManagement": "Gestion locative",
+    "maintenance": "Maintenance",
+    "documents": "Documents",
+    "users": "Utilisateurs",
+    "settings": "Paramètres",
+    "search": "Rechercher...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "add": "Ajouter",
+    "view": "Voir",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "status": "Statut",
+    "actions": "Actions",
+    "streamlinePropertyManagement": "Simplifiez votre gestion immobilière"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "rememberMe": "Se souvenir de moi",
+    "enterEmail": "Entrez votre adresse e-mail",
+    "enterPassword": "Entrez votre mot de passe",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "welcomeBack": "Bon Retour",
+    "signInToContinue": "Connectez-vous à votre compte pour continuer",
+    "demoLogin": "Connexion de démonstration",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "contactAdmin": "Contactez votre administrateur"
+  },
+  "header": {
+    "profile": "Profil",
+    "security": "Sécurité et confidentialité",
+    "activityLog": "Journal d'activité",
+    "billing": "Facturation et forfaits",
+    "preferences": "Préférences",
+    "language": "Langue et région",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair",
+    "help": "Aide et support"
+  },
+  "settings": {
+    "profileSettings": "Paramètres du profil",
+    "securitySettings": "Paramètres de sécurité",
+    "notificationSettings": "Paramètres de notification",
+    "appearanceSettings": "Paramètres d'apparence",
+    "theme": "Thème",
+    "language": "Langue"
+  }
+}

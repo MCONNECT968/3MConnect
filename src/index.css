@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark mode styles */
+.dark {
+  @apply bg-gray-900 text-white;
+}
+
+.dark body {
+  @apply bg-gray-900;
+}
+
+.dark .bg-white {
+  @apply bg-gray-800 text-white;
+}
+
+.dark .text-gray-800 {
+  @apply text-gray-200;
+}
+
+.dark .text-gray-700 {
+  @apply text-gray-300;
+}
+
+.dark .text-gray-600 {
+  @apply text-gray-400;
+}
+
+.dark .border-gray-200 {
+  @apply border-gray-700;
+}
+
+.dark .border-gray-300 {
+  @apply border-gray-600;
+}
+
+.dark .shadow-md {
+  @apply shadow-gray-800;
+}
+
+.dark .bg-gray-50 {
+  @apply bg-gray-700 text-gray-200;
+}
+
+.dark .bg-gray-100 {
+  @apply bg-gray-700;
+}
+
+.dark .hover\:bg-gray-50:hover {
+  @apply hover:bg-gray-700;
+}
+
+.dark .hover\:bg-gray-100:hover {
+  @apply hover:bg-gray-700;
+}
+
+/* Input text color fix */
+.dark input,
+.dark textarea,
+.dark select {
+  @apply text-gray-900;
+}
+
+.dark input:focus,
+.dark textarea:focus,
+.dark select:focus {
+  @apply text-white;
+}
+
+/* RTL support for Arabic */
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.rtl .ml-1, .rtl .ml-2, .rtl .ml-3, .rtl .ml-4 {
+  margin-left: 0;
+  margin-right: 0.25rem;
+  margin-right: 0.5rem;
+  margin-right: 0.75rem;
+  margin-right: 1rem;
+}
+
+.rtl .mr-1, .rtl .mr-2, .rtl .mr-3, .rtl .mr-4 {
+  margin-right: 0;
+  margin-left: 0.25rem;
+  margin-left: 0.5rem;
+  margin-left: 0.75rem;
+  margin-left: 1rem;
+}
+
+.rtl .pl-1, .rtl .pl-2, .rtl .pl-3, .rtl .pl-4, .rtl .pl-10 {
+  padding-left: 0;
+  padding-right: 0.25rem;
+  padding-right: 0.5rem;
+  padding-right: 0.75rem;
+  padding-right: 1rem;
+  padding-right: 2.5rem;
+}
+
+.rtl .pr-1, .rtl .pr-2, .rtl .pr-3, .rtl .pr-4, .rtl .pr-10 {
+  padding-right: 0;
+  padding-left: 0.25rem;
+  padding-left: 0.5rem;
+  padding-left: 0.75rem;
+  padding-left: 1rem;
+  padding-left: 2.5rem;
+}
+
+.rtl .left-3, .rtl .left-4 {
+  left: auto;
+  right: 0.75rem;
+  right: 1rem;
+}
+
+.rtl .right-3, .rtl .right-4 {
+  right: auto;
+  left: 0.75rem;
+  left: 1rem;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}

@@ -1,0 +1,62 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "properties": "Properties",
+    "clients": "Clients",
+    "needsForms": "Needs Forms",
+    "calendar": "Calendar",
+    "rentalManagement": "Rental Management",
+    "maintenance": "Maintenance",
+    "documents": "Documents",
+    "users": "Users",
+    "settings": "Settings",
+    "search": "Search...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "view": "View",
+    "filter": "Filter",
+    "sort": "Sort",
+    "status": "Status",
+    "actions": "Actions",
+    "streamlinePropertyManagement": "Streamline your property management"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "enterEmail": "Enter your email address",
+    "enterPassword": "Enter your password",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "welcomeBack": "Welcome Back",
+    "signInToContinue": "Sign in to your account to continue",
+    "demoLogin": "Demo Login",
+    "noAccount": "Don't have an account?",
+    "contactAdmin": "Contact your administrator"
+  },
+  "header": {
+    "profile": "Profile",
+    "security": "Security & Privacy",
+    "activityLog": "Activity Log",
+    "billing": "Billing & Plans",
+    "preferences": "Preferences",
+    "language": "Language & Region",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "help": "Help & Support"
+  },
+  "settings": {
+    "profileSettings": "Profile Settings",
+    "securitySettings": "Security Settings",
+    "notificationSettings": "Notification Settings",
+    "appearanceSettings": "Appearance Settings",
+    "theme": "Theme",
+    "language": "Language"
+  }
+}

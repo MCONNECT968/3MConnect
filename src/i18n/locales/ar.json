@@ -1,0 +1,62 @@
+{
+  "common": {
+    "dashboard": "لوحة التحكم",
+    "properties": "العقارات",
+    "clients": "العملاء",
+    "needsForms": "نماذج الاحتياجات",
+    "calendar": "التقويم",
+    "rentalManagement": "إدارة التأجير",
+    "maintenance": "الصيانة",
+    "documents": "المستندات",
+    "users": "المستخدمين",
+    "settings": "الإعدادات",
+    "search": "بحث...",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "add": "إضافة",
+    "view": "عرض",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "status": "الحالة",
+    "actions": "إجراءات",
+    "streamlinePropertyManagement": "تبسيط إدارة العقارات الخاصة بك"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "rememberMe": "تذكرني",
+    "enterEmail": "أدخل عنوان بريدك الإلكتروني",
+    "enterPassword": "أدخل كلمة المرور الخاصة بك",
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج",
+    "welcomeBack": "مرحبًا بعودتك",
+    "signInToContinue": "قم بتسجيل الدخول إلى حسابك للمتابعة",
+    "demoLogin": "تسجيل دخول تجريبي",
+    "noAccount": "ليس لديك حساب؟",
+    "contactAdmin": "اتصل بالمسؤول"
+  },
+  "header": {
+    "profile": "الملف الشخصي",
+    "security": "الأمان والخصوصية",
+    "activityLog": "سجل النشاط",
+    "billing": "الفواتير والخطط",
+    "preferences": "التفضيلات",
+    "language": "اللغة والمنطقة",
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح",
+    "help": "المساعدة والدعم"
+  },
+  "settings": {
+    "profileSettings": "إعدادات الملف الشخصي",
+    "securitySettings": "إعدادات الأمان",
+    "notificationSettings": "إعدادات الإشعارات",
+    "appearanceSettings": "إعدادات المظهر",
+    "theme": "السمة",
+    "language": "اللغة"
+  }
+}

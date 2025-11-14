@@ -1,0 +1,62 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "properties": "Immobilien",
+    "clients": "Kunden",
+    "needsForms": "Bedarfsformulare",
+    "calendar": "Kalender",
+    "rentalManagement": "Mietverwaltung",
+    "maintenance": "Wartung",
+    "documents": "Dokumente",
+    "users": "Benutzer",
+    "settings": "Einstellungen",
+    "search": "Suchen...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "add": "Hinzufügen",
+    "view": "Ansehen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "status": "Status",
+    "actions": "Aktionen",
+    "streamlinePropertyManagement": "Optimieren Sie Ihre Immobilienverwaltung"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "rememberMe": "Angemeldet bleiben",
+    "enterEmail": "Geben Sie Ihre E-Mail-Adresse ein",
+    "enterPassword": "Geben Sie Ihr Passwort ein",
+    "signIn": "Anmelden",
+    "signOut": "Abmelden",
+    "welcomeBack": "Willkommen zurück",
+    "signInToContinue": "Melden Sie sich an, um fortzufahren",
+    "demoLogin": "Demo-Anmeldung",
+    "noAccount": "Sie haben noch kein Konto?",
+    "contactAdmin": "Kontaktieren Sie Ihren Administrator"
+  },
+  "header": {
+    "profile": "Profil",
+    "security": "Sicherheit & Datenschutz",
+    "activityLog": "Aktivitätsprotokoll",
+    "billing": "Abrechnung & Pläne",
+    "preferences": "Präferenzen",
+    "language": "Sprache & Region",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus",
+    "help": "Hilfe & Support"
+  },
+  "settings": {
+    "profileSettings": "Profileinstellungen",
+    "securitySettings": "Sicherheitseinstellungen",
+    "notificationSettings": "Benachrichtigungseinstellungen",
+    "appearanceSettings": "Darstellungseinstellungen",
+    "theme": "Thema",
+    "language": "Sprache"
+  }
+}
